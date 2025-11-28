@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import { useFetch } from "../hooks/UseFetch";
+import { useFetch } from "../hooks/useFetch";
 
 const Product = () => {
     // 4 - rota dinamica

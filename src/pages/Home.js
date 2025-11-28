@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { useFetch } from "../hooks/UseFetch"
+import { useFetch } from "../hooks/useFetch"
 
 import './Home.css'
 
